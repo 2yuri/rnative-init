@@ -1,6 +1,6 @@
 # React Native Init
 
-## Simple application to start with React Native
+## Simple application to start with React Native 🚀
 
 - In this applicattion we can see some languages, and when you click shows GitHub documentation webview
 
